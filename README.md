@@ -13,7 +13,7 @@ With the growing number of credit card users, banks have been facing an escalati
 # Documentations:
 1. HLD : https://docs.google.com/document/d/1wYEaG3vqc1KuY0v3qlyBqOWbC4ErRm0Y/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
 2. LLD : https://docs.google.com/document/d/1wXvgoU2pQldrSHwN9uSGh0A5jhq92ojd/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
-3. DPS : https://docs.google.com/document/d/1w_ObSd2G3YgNvviQDSPWCe8P1giiCYTq/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
+3. DPR : https://docs.google.com/document/d/1w_ObSd2G3YgNvviQDSPWCe8P1giiCYTq/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
 4. WireFrame : https://docs.google.com/document/d/1wOPeJ1oNH7iIMZZw1tYoclmZwXyGvuE-/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
 5. Architecture : https://docs.google.com/document/d/1wJWpXWFJfWNK7PL-j___TFSgUdNsOVux/edit?usp=sharing&ouid=116470495887151855872&rtpof=true&sd=true
 
