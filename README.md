@@ -24,3 +24,8 @@ This dataset contains information on default payments, demographic factors, cred
 Link : https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 # Watch the Demo here
+
+
+https://github.com/RajePriya/Project---Default-credit-card-prediction/assets/124127603/271380b3-ac5a-4f63-a4a1-6a97a6ad5d17
+
+# Technologies Used
