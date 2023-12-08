@@ -29,3 +29,4 @@ Link : https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-data
 https://github.com/RajePriya/Project---Default-credit-card-prediction/assets/124127603/271380b3-ac5a-4f63-a4a1-6a97a6ad5d17
 
 # Technologies Used
+![198870009-95368c87-f4b5-44cd-8385-c2ae7e81e992](https://github.com/RajePriya/Project---Default-credit-card-prediction/assets/124127603/8ae53a38-a48a-4a40-8926-cc22abfa0f6e)
